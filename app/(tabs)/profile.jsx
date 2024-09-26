@@ -4,7 +4,7 @@ import React from "react";
 export default function profile() {
   return (
     <View>
-      <Text>profile</Text>
+      <Text style={{ fontSize: 40 }}>profile</Text>
     </View>
   );
 }
